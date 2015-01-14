@@ -1,0 +1,21 @@
+/* ***********************************************************
+Float Clearing http://nicolasgallagher.com/micro-clearfix-hack
+*********************************************************** */
+.group:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+  clear: both;
+}
+
+/* Clearfix */
+.group {
+  *zoom: 1;
+}
+
+
+/* ******************************************
+box-sizing polyfill, IE7 and below 
+****************************************** */
+.wrapper {
+  *behavior: url("http://_____________/js/boxsizing.htc");
+}

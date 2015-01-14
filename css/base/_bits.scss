@@ -1,0 +1,49 @@
+/**************************************************
+VARIABLES: Colors
+**************************************************/
+$primary-color: #293976; // Blue
+$secondary-color: #0097D5; // Light Blue 
+
+
+/**************************************************
+VARIABLES: Fonts
+**************************************************/
+$font-stack-display: "brandon-grotesque", sans-serif;
+$font-stack-main: "freight-text-pro", Georgia, serif;
+
+
+/**************************************************
+VARIABLES: Breakpoints
+**************************************************/
+$break-sm: 26.25em; // 420px
+$break-md: 34.375em; // 550px
+$break-xmd: 46.25em; // 740px
+$break-lg: 50em; // 800px
+$break-xlg: 61.25em; // 980px
+$break-xxlg: 106.25em; // 1700px
+
+
+/**************************************************
+MIXINS: Breakpoints
+**************************************************/
+@mixin bp($point) {
+  @if $point == sm {
+    @media screen and (min-width: $break-sm) { @content; }
+  }
+  @if $point == md {
+    @media screen and (min-width: $break-md) { @content; }
+  }
+  @if $point == xmd {
+    @media screen and (min-width: $break-xmd) { @content; }
+  }
+  @if $point == lg {
+    @media screen and (min-width: $break-lg) { @content; }
+  }
+  @if $point == xlg {
+    @media screen and (min-width: $break-xlg) { @content; }
+  }
+  @if $point == xxlg {
+    @media screen and (min-width: $break-xxlg) { @content; }
+  }
+}
+
