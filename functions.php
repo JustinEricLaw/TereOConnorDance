@@ -1,4 +1,23 @@
 <?php
+
+// Advanced Custom Fields - Remove p tags from WISIWIG output
+remove_filter ('acf_the_content', 'wpautop');
+
+
+// Setting Length of Blog Post Excerpts
+function wpt_excerpt_length( $length ) {
+	return 40;
+}
+add_filter( 'excerpt_length', 'wpt_excerpt_length', 999 );
+
+
+// Changing Blog Post Excerpt Read More 
+function new_excerpt_more( $more ) {
+	return '... <a class="read-more" href="'. get_permalink( get_the_ID() ) . '">' . __('Read More', 'your-text-domain') . '</a>';
+}
+add_filter( 'excerpt_more', 'new_excerpt_more' );
+
+
 // WP Menu
 add_theme_support('menus');
 

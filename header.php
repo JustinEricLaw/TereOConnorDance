@@ -3,14 +3,18 @@
   <head>
 
     <meta charset="UTF-8" />
-    <title><?php wp_title('|', 'TRUE', 'RIGHT'); ?></title>
+    <title><?php wp_title('|', 'true', 'right'); ?>Tere O'Connor Dance</title>
 
     <!-- Viewport meta tag to prevent iPhone from scaling our page -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     
-    <!-- Typekit Code -->
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+    <!-- Typekit Code 
     <script src="//use.typekit.net/vsi6xbw.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
+    -->
     
     <?php wp_head(); ?>
     

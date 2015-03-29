@@ -11,11 +11,3 @@ Float Clearing http://nicolasgallagher.com/micro-clearfix-hack
 .group {
   *zoom: 1;
 }
-
-
-/* ******************************************
-box-sizing polyfill, IE7 and below 
-****************************************** */
-.wrapper {
-  *behavior: url("http://_____________/js/boxsizing.htc");
-}

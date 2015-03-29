@@ -25,19 +25,34 @@
     </div>
   </div>
 
+
   <div class="container-content">
     <div class="about-container">
 
-        <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+      <?php
+        $the_query = new WP_Query(array(
+        'post_type' => 'project',  // Name of custom post type
+        'posts_per_page' => -1,  // -1 means "all of them"
+        'orderby' => 'menu_order'  // Order by ReOrder plugin
+        ));
 
-        <?php the_content(); ?>
+        while ($the_query->have_posts()) : 
+          $the_query->the_post(); 
+      ?>
 
-        <?php endwhile; else : ?>
-	       <p><?php _e( 'Sorry, no pages found.' ); ?></p>
+      <article class="about-section">
+        <h4 class="about-title"><?php the_field('project_title'); ?></h4>
+        <p class="about-entry"><?php the_field('project_description', false, false); ?></p>
+        <?php if( get_field('project_funding_information') ): ?>
+          <p class="projects-funding"><?php the_field('project_funding_information', false, false); ?></p>
         <?php endif; ?>
+      </article>
+
+      <?php endwhile; ?>
 
     </div>
   </div>
+
 
 <?php get_footer(); ?>
 

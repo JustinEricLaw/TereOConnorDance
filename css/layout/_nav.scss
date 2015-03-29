@@ -47,7 +47,7 @@ Navbar
   .flexnav li a {
     position: relative;
     display: block;
-    padding: 1em 1.75em;
+    padding: 1em 1.75em .7em;
     z-index: 2;
     overflow: hidden;
     color: #222222;
@@ -188,9 +188,10 @@ Navbar
       border-left: none;
       border-bottom: none; 
       background: none;
-      padding: 1.25em 0;
+      padding: 1.25em 0 1.1em;
       font-size: .95em;
-      font-weight: 900;
+      font-weight: normal;
+      letter-spacing: .25px;
       @include bp(lg) {
         font-size: 1em;
       }
@@ -296,7 +297,8 @@ text-align: center;
   width: 19.9%; }
 
 
-.current-menu-item {
+.current-menu-item,
+.single-post .menu-item-38 {
   @include bp(lg) {
     a {
       border-top: 5px solid $secondary-color;    

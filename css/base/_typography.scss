@@ -8,6 +8,8 @@ html {
   -moz-osx-font-smoothing: grayscale;
   font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  font-kerning: normal;
 }
 
 body {
@@ -19,15 +21,15 @@ p,
 li {
   font-family: $font-stack-main;
   color: #333;
-  font-size: 1.2em;
-  line-height: 1.5;
+  font-size: 1.1em;
+  line-height: 1.7;
   font-style: normal;
 }
 
 h1, 
 h2 {
   font-family: $font-stack-display;
-  font-weight: 700;
+  font-weight: normal;
   line-height: 1;
   color: #ffffff;
   text-transform: uppercase;
@@ -66,10 +68,13 @@ h1 {
     padding-bottom: .4em;
 }
 
-.nav-container li,
+.nav-container li {
+  font-family: $font-stack-display2;
+  text-transform: uppercase;
+}
 .menu-button {
   font-family: $font-stack-display;
-  text-transform: uppercase;
+  text-transform: uppercase; 
 }
 
 .nav-container {
@@ -109,10 +114,10 @@ h1 {
     font-size: 2.8em;
   }
   @include bp(md) {
-    font-size: 3.2em;
+    font-size: 4em;
   }
   @include bp(lg) {
-    font-size: 4em;
+    font-size: 4.25em;
   }
   @include bp(xlg) {
     font-size: 5.25em;
@@ -126,7 +131,7 @@ h3 {
   font-size: 2.25em;
   color: $secondary-color;
   font-family: $font-stack-display;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.44;
   text-transform: uppercase;
 }
@@ -145,12 +150,11 @@ a:focus {
 
 .nav {
   li {
-    font-family: $font-stack-display;
+    font-family: $font-stack-display2;
     font-size: 1em;
     line-height: 1;
     text-transform: uppercase;
     color: $primary-color;
-    font-weight: 900;
   }
   a:link, 
   a:visited {
@@ -167,7 +171,8 @@ a:focus {
 }
 
 
-.container-content {
+.container-content,
+.container-footer {
   @include bp(lg) {
     font-size: 110%;
   }
@@ -178,21 +183,22 @@ a:focus {
     font-size: 100%;
   }
 }
-.container-footer {
-  @include bp(lg) {
-    font-size: 110%;
-  }
-  @include bp(xxlg) {
-    font-size: 100%;
-  }
-}
 
 .footer-left,
 .footer-right,
 .colophon {
   font-size: 100%;
+  @include bp(lg) {
+    font-size: 90%;
+  }
+  @include bp(xxlg) {
+    font-size: 125%;
+  }
 }
 
+.footer-admin-login a {
+  text-decoration: none;
+}
 
 .news-container, 
 .about-container {
@@ -201,26 +207,54 @@ a:focus {
   }
 }
 
+.bleed-container {
+  @include bp(xxlg) {
+    font-size: 140%;
+  }
+}
+
 .news-date {
   font-family: $font-stack-display;
-  font-weight: 700;
+  font-weight: normal;
   text-transform: uppercase;
   color: $secondary-color;
   font-size: .85em;
 }
-.news-title {
+.news-title,
+.blog-title {
   font-family: $font-stack-main;
-  font-weight: 900;
-  font-size: 1.4em;
+  font-weight: 700;
+  font-size: 1.3em;
   font-style: italic;
   line-height: 1.25;
+}
+
+.blog-title {
+  a:link,
+  a:visited {
+    text-decoration: none;
+    color: #333;
+  }
+  a:hover,
+  a:active,
+  a:focus {
+    color: $secondary-color;
+
+  }
+}
+
+a.read-more {
+  display: block;
+  padding-top: .5em;
+  font-style: italic;
+  width: 40%;
 }
 
 
 .about-title {
   font-family: $font-stack-main;
-  font-weight: 900;
-  font-size: 1.4em;
+  font-weight: 700;
+  font-size: 1.3em;
   line-height: 1.25em;
   font-style: italic;
   color: $secondary-color;
@@ -230,7 +264,7 @@ a:focus {
 .news-next,
 .news-previous {
   font-family: $font-stack-display;
-  font-weight: 700;
+  font-weight: normal;
   color: #ddd;
   font-size: 1.25em;
 }
@@ -294,12 +328,16 @@ a:focus {
   a:visited {
     color: inherit;
     transition: all 0.3s ease;
+    text-decoration: none;
+    border-bottom: 1px dotted #cdcdcd;
   }
   a:hover, 
   a:active, 
   a:focus {
     color: $secondary-color;
     transition: all 0.3s ease;
+    text-decoration: none;
+    border-bottom: 1px solid $secondary-color;
   }
 }
 
@@ -318,6 +356,7 @@ a:focus {
   }
   h4 {
     font-family: $font-stack-display;
+    font-weight: normal;
     font-size: 2em;
     text-transform: uppercase;
     padding-bottom: .4em;
@@ -325,14 +364,14 @@ a:focus {
   h5 {
     font-size: 1.25em;
     font-style: italic;
-    font-weight: 900;
+    font-weight: 700;
     padding-bottom: .25em;
   }
   p {  
     color: #fff;
-    font-size: 1.1em;
+    font-size: 1em;
     font-family: $font-stack-main;
-    line-height: 1.35;
+    line-height: 1.5;
     font-style: normal;
   }
   span {

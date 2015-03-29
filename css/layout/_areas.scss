@@ -214,7 +214,7 @@ h1 {
   margin-bottom: 1em;
   h2 {
     position: relative;
-    bottom: -.2em;
+    bottom: -.35em;
   }
   @include bp(xlg) {
     padding: 20% 0 0 0;
@@ -235,17 +235,20 @@ NEWS
   padding-bottom: 3em;
 }
 
-.news-entry {
+.news-entry,
+.blog-item p {
   padding-bottom: 1em;
 }
-.news-item {
+.news-item,
+.blog-item {
   padding-top: 2.5em;
   padding-bottom: 1.5em;
 }
 .news-item {
   border-bottom: 1px solid #ccc;
 }
-.news-item:first-of-type {
+.news-item:first-of-type,
+.blog-item:first-of-type {
   padding-top: 0;
 }
 .news-item:last-of-type {
@@ -254,12 +257,14 @@ NEWS
 
 .news-date {
   display: inline-block;
-  padding: 4px 8px 2px 8px;
+  padding: 6px 10px 0;
   border: 2px solid $secondary-color;
   border-radius: 18px;
   margin-bottom: .85em;
+  line-height: 1.5;
 }
-.news-title {
+.news-title,
+.blog-title {
   padding-bottom: .5em;
 }
 .news-navigation {
@@ -344,6 +349,7 @@ CALENDAR
   text-transform: uppercase;
   color: $secondary-color;
   font-size: 1em;
+  font-weight: normal;
   padding-bottom: .5em;
   @include bp(lg) {
 
@@ -411,7 +417,7 @@ CALENDAR
     text-align: center;
     color: #999;
     display: inline-block;
-    padding: .85em .8em .7em;
+    padding: .85em .8em .5em;
     font-family: $font-stack-display;
     text-transform: uppercase;
     font-size: .7em;
@@ -514,7 +520,7 @@ img {
     text-align: center;
     color: $secondary-color;
     display: inline-block;
-    padding: .85em .8em .7em;
+    padding: 1.2em .8em .75em;
     font-family: $font-stack-display;
     text-transform: uppercase;
     font-size: .7em;
@@ -598,7 +604,7 @@ img {
   float: left;
   width: 65%;
   background-color: #fff;
-  padding: .6em .75em;
+  padding: 1em .75em .65em;
   text-align: left;
   color: #bbb;
   border:none;
@@ -612,7 +618,7 @@ img {
   float: left;
   width: 35%;
   background-color: $secondary-color;
-  padding: .6em .75em;
+  padding: 1em .75em .65em;
   text-align: center;
   border:none;
   color: #fff;
@@ -661,7 +667,7 @@ img {
 
 .colophon {
   text-align: left;
-  padding: 1.5em 0 2em 0;
+  padding: 1.5em 0 1.5em 0;
   border-top: 1px solid #fff;
   span {
     @include bp(sm) {
@@ -674,5 +680,54 @@ img {
     text-align: center;
   }
 }
+
+
+/* WP Alignment */
+
+.alignleft {
+  float: left;
+}
+
+.alignright {
+  float: right;
+}
+
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* WP Pagination */
+.nav-next,
+.nav-previous {
+  display: inline-block;
+  font-size: 100%;
+  a:link,
+  a:visited {
+    text-transform: uppercase;
+    color: #bcbcbc;
+    text-decoration: none;
+    font-family: $font-stack-display;
+    font-weight: 700;
+    font-size: .75em;
+    transition: all 0.3s ease;
+  }
+  a:hover,
+  a:active,
+  a:focus {
+    color: $secondary-color;
+    transition: all 0.3s ease;
+  }
+}
+
+.pagination {
+  padding: 1em 0 2em;
+}
+
+
+
+
 
 

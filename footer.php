@@ -62,7 +62,7 @@
       <footer class="colophon">
         <div class="container-footer">
           <p>
-            <span>© <?php echo date('Y'); ?> Tere O’Connor Dance.</span>
+            <span class="footer-admin-login"><a href="http://tereoconnordance.org/wp-admin/">©</a> <?php echo date('Y'); ?> Tere O’Connor Dance.</span>
             <span>All Rights Reserved. Site by <a href="http://favorablemagnetism.com">J Law</a>.</span>  
           </p>
         </div>
