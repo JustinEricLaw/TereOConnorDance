@@ -3,7 +3,7 @@
   <head>
 
     <meta charset="UTF-8" />
-    <title><?php wp_title('|', 'true', 'right'); ?>Tere O'Connor Dance</title>
+    <title><?php wp_title('|', 'true', 'right'); ?>Tere O’Connor Dance</title>
 
     <!-- Viewport meta tag to prevent iPhone from scaling our page -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />

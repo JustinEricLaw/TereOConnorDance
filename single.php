@@ -5,7 +5,7 @@
       <div class="container-header">
         <h1>
           <span>Tere</span><br />
-          <span>O'Connor</span><br />
+          <span>O’Connor</span><br />
           <span>Dance</span>
         </h1>
       </div>
