@@ -1,0 +1,11 @@
+#bio-toggle {
+  font-weight: 700;
+}
+
+.bio {
+  display: none;
+}
+
+.bio.active-bio {
+  display: block;
+}

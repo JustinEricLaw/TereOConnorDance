@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){var o=function(){console.log("App.js is loaded!")};o(),$("#bio-toggle").on("click",function(o){$(".bio").slideToggle(),o.preventDefault()})});
