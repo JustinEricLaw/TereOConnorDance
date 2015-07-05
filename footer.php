@@ -41,17 +41,17 @@
             <h4>Follow</h4>
             <div class="social-icons">
               <a href="https://twitter.com/Tereroco">
-                <span class="icon-social_twitter"></span>
+                <span class="icon-twitter"></span>
               </a>
             </div>
             <div class="social-icons">
               <a href="https://www.facebook.com/tere.oconnor">
-                <span class="icon-social_facebook"></span>
+                <span class="icon-facebook"></span>
               </a>
             </div>
             <div class="social-icons">
               <a href="http://www.youtube.com/user/tereoc1/videos">
-                <span class="icon-social_youtube"></span>
+                <span class="icon-youtube"></span>
               </a>
             </div>
           </div>

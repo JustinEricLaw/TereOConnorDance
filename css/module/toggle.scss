@@ -1,11 +1,38 @@
-#bio-toggle {
+.bio-toggle {
   font-weight: 700;
+  font-style: italic;
+  padding-bottom: .5em;
+}
+
+.about-section.active {
+  padding-bottom: 0;
+}
+
+a.toggle-link:link,
+a.toggle-link:visited {
+  text-decoration: none;
+}
+.bio-toggle:hover,
+.bio-toggle:focus,
+.bio-toggle:active {
+  color: $secondary-color;
 }
 
 .bio {
   display: none;
 }
 
-.bio.active-bio {
-  display: block;
+// Toggle Icons
+.icon-plus,
+.icon-minus {
+  color: $secondary-color;
+  display: inline;
+  font-size: .75em;
+  padding-right: .5em;
 }
+
+
+
+
+
+

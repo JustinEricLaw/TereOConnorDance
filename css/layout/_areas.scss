@@ -292,7 +292,6 @@ ABOUT
   border-bottom: none;
   padding-bottom: 0;
 }
-
 .about-section:first-of-type {
   padding-top: 0;
 }
@@ -312,6 +311,9 @@ ABOUT
 }
 .bio:last-child {
   border-bottom: none;
+}
+.tere-bio {
+  padding-bottom: 1em;
 }
 
 
@@ -650,9 +652,9 @@ img {
   a:hover,
   a:active,
   a:focus {
-    .icon-social_facebook,
-    .icon-social_twitter,
-    .icon-social_youtube {
+    .icon-facebook,
+    .icon-twitter,
+    .icon-youtube {
       color: $secondary-color;
       transition: all 0.3s ease;
     }
@@ -726,7 +728,9 @@ img {
   padding: 1em 0 2em;
 }
 
+.bio-wrap {
 
+}
 
 
 

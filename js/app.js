@@ -5,13 +5,22 @@ jQuery(document).ready(function($) {
   // Test that file has loaded
   var test = function () {
     console.log('App.js is loaded!');
-  }
+  };
   test();
 
 
   // Accordion for About Page
-  $("#bio-toggle").on("click", function(event){
-    $(".bio").slideToggle();
+  $(".bio-toggle").on("click", function(event){
+    
+    // toggle icon state
+    $(this).children('span')
+      .toggleClass('icon-plus').toggleClass('icon-minus');
+    
+    // toggle display of bio text
+    $(this).parent().next(".bio").slideToggle();
+
+    // remove extra bottom padding of container 
+    $(this).parents(".about-section").toggleClass('active');
     event.preventDefault();
   });
 
