@@ -30,17 +30,17 @@ Icon Web Font
 ****************************************** */
 @font-face {
   font-family: 'tere-icons';
-  src:url('../fonts/tere-icons.eot?-sduv6m');
-  src:url('../fonts/tere-icons.eot?#iefix-sduv6m') format('embedded-opentype'),
-    url('../fonts/tere-icons.woff?-sduv6m') format('woff'),
-    url('../fonts/tere-icons.ttf?-sduv6m') format('truetype'),
-    url('../fonts/tere-icons.svg?-sduv6m#tere-icons') format('svg');
+  src:url('../fonts/tere-icons.eot?niexfb');
+  src:url('../fonts/tere-icons.eot?#iefixniexfb') format('embedded-opentype'),
+    url('../fonts/tere-icons.ttf?niexfb') format('truetype'),
+    url('../fonts/tere-icons.woff?niexfb') format('woff'),
+    url('../fonts/tere-icons.svg?niexfb#tere-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 
-[class^="icon-"], [class*="icon-"] {
+[class^="icon-"], [class*=" icon-"] {
   font-family: 'tere-icons';
   speak: none;
   font-style: normal;
@@ -63,22 +63,16 @@ Icon Web Font
 }
 
 .icon-facebook:before {
-  content: "\e600";
-}
-.icon-minus:before {
-  content: "\e601";
-}
-.icon-plus:before {
-  content: "\e602";
-}
-.icon-twitter:before {
-  content: "\e603";
+  content: "\e700";
 }
 .icon-youtube:before {
-  content: "\e604";
+  content: "\e701";
+}
+.icon-twitter:before {
+  content: "\e702";
 }
 .icon-menu:before {
-  content: "\e9bd";
+  content: "\e703";
   font-size: .6em;
   color: $primary-color;
   margin: 0;
@@ -86,5 +80,10 @@ Icon Web Font
   position: relative;
   bottom: 5px;
 }
-
+.icon-plus:before {
+  content: "\e704";
+}
+.icon-minus:before {
+  content: "\e705";
+}
 

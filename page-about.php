@@ -27,127 +27,7 @@
 
   <div class="container-content">
     <div class="about-container">
-      <article class="about-section">
-        <h4 class="about-title">About the Company</h4>
-        <p class="about-entry">Tere O’Connor’s choreography finds its logic outsclasse the realm of “translation,” operating in a sub-linguistic area of expression. He views dance as a system with its own properties; an abstract documentary form that doesn’t search to depict. The lenses of western culture, spoken language or dance history, often used to “interpret” dance, are subsumed into layers of the work and decentralized. In addition to a great love of movement and a deep commitment to choreographic craft and design, more philosophical urges animate the work. From his earliest efforts, the complex entanglement of passing time, metaphor, constant change, tangential thought, and memory have ignited an exploration into the nature of consciousness for O’Connor. Choreography is a process of observation which includes multiple, disparate elements that float in and out of synchronicity. Engaging in dance as a life style constitutes a move away from the narrow social constructs we’ve created to standardize human behavior.</p>
-        <p class="about-entry">O’Connor’s astounding performers and renowned collaborators constitute a family of artists who are dedicated to expanding the potency of dance as a serious art form. His boldly individualist approach to choreography has contributed new thought to the form that resonates throughout its theoretical discourse. For O’Connor, meaning is arrived at in collaboration with the audience and its endlessly diverse referential world. It is, therefore, fluid and forever open-ended.</p>
-        <p class="about-entry">Throughout history and across diverse cultures, dance has long proffered a value system in which narrative underpinnings were dominant anchoring dances to prescribed readings. He is committed to the power of dance as a sub-linguistic area of expression and revels in its ability to braid together the personal and the universal.</p>
-      </article>
 
-      <article class="about-section">
-        <h4 class="about-title">Company Biographies</h4>
-        <div class="bio-wrap">
-          <p class="tere-bio"><b>Tere O’Connor</b> is Artistic Director of Tere O’Connor Dance. He has created over 40 works for his company and toured these throughout the US, Europe, South America and Canada. He has created numerous commissioned works for other dance companies, including the Lyon Opera Ballet, White Oak Dance Project and solo works for Mikhail Baryshnikov and Jean Butler. O’Connor received a 2013 Doris Duke Performing Artist Award, is a 2009 United States Artist Rockefeller Fellow, and a 1993 Guggenheim Fellow among numerous other grants and awards. His work has been supported by the National Endowment for the Arts, New England Foundation for the Arts/National Dance Project, The MAP Fund, and many others. He has received three “BESSIES”, New York Dance and Performance Awards. In October 2014, he was inducted into the American Academy of Arts and Sciences. An articulate and provocative educator, O'Connor has taught at festivals and universities around the globe for 25 years. He is a Center for Advanced Studies Professor of Dance at the University of Illinois at Urbana-Champaign where he lives for one semester each year. O’Connor is an active participant in the New York dance community mentoring young artists, teaching, writing, and volunteering in various capacities. <i>BLEED</i>, premiered at BAM’s Next Wave festival in Dec 2013 and continues on a tour in the United States with upcoming stops at On the Boards in Seattle and The Walker Arts Center in Minneapolis. The company will present a week of encore performances of <i>BLEED</i> at Danspace Project in New York City, Dec 18-20, 2014. They will also present two works at the American Realness Festival in Jan 2015, <i>Sister</i> and <i>undersweet</i> in NYC.</p>
-        </div>
-      </article>
-
-      <article class="about-section">
-        <h4 class="about-title">Dancers</h4>
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Tess Dworman</p>
-          </a>
-          <p class="bio">Tess Dworman is a choreographer and performer originally from Oak Park, IL. She studied at the Laban Centre in London and the University of Illinois at Urbana-Champaign where she received a BFA in Dance. In New York, her work has been presented by AUNTS, Center for Performance Research, Danspace Project, Dixon Place, Movement Research at the Judson Church, New York Live Arts, and Roulette Intermedium. She has also had the pleasure of performing in the works of Laurel Atwell, Strauss Bourque-LaFrance, Kim Brandt, Yanira Castro, Moriah Evans, Sam Kim, and Mariana Valencia.</p>
-        </div>
-        
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>devynn emory</p>
-          </a>
-          <p class="bio">devynn emory is a mixed race and transgender Philadelphian, and a NY dancer and choreographer who isn't making work "about" it. emory runs a company devynnemory/beastproductions that has shown work at DTW, NYLA, BAX, Danspace Project, Movement Research, Roulette, Aunts, Dixon Place, Philadelphia Live Arts Festival, Philadelphia Dance Boom's Motion Pictures, Arts and Ideas Festival in New Haven, and The London International Film Festival at the Place. emory has been awarded an Independence Foundation Fellowship, Fresh Tracks at DTW, a studio series at NYLA, a space grant at BAX, and a residency at Issue Project Room, and has spoken on panels and taught classes and workshops about their process and it’s intersection with identity. As a dancer they currently work and tour with Tere O'Connor and RoseAnne Spradlin. Previously emory has worked with Headlong Dance Theater for 10years, Jerome Bel, White Oak Dance Project, Paule Turner, Faye Driscoll, Daria Fain, Jen Rosenblit, Vanessa Anspaugh, Jules Skloot, Yve Laris Cohen and Gerard and Kelly. emory also finds balance in teaching dance to small people, and engaging their 13 year massage and bodywork practice.</p>
-        </div>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Natalie Green</p>
-          </a>
-          <p class="bio">Natalie Green, originally from Austin TX, graduated from the SUNY Purchase Dance Conservatory in 2003. She has since had the pleasure of performing for Tere O'Connor, RoseAnne Spradlin, Anna Sperber, Levi Gonzalez, and Juliette Mapp, among others. Green’s own work has been presented at Dance Theater Workshop, Danspace Project’s “Food for Thought”, Movement Research at the Judson Church “About Town”, BAX, Catch, and the Chocolate Factory Theater.</p>
-        </div>
-         
-        <div class="bio-wrap"> 
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Ryan Kelly</p>
-          </a> 
-          <p class="bio">Ryan Kelly is an artist and dancer currently living and working between Los Angeles and New York City. He received his MFA from the Interdisciplinary Studio in the UCLA Department of Art and his BA in Comparative Literature from Fordham University. Kelly was a Van Lier Fellow at the Whitney Independent Study Program and a member of New York City Ballet from 1998 to 2002. Since then, he has worked as a dancer for numerous classical and contemporary choreographers and directors including Karole Armitage, Suzanne Farrell, and Sasha Waltz. For the past ten years, he has engaged in a collaborative art practice with Brennan Gerard. Gerard and Kelly’s work has been shown in visual and performing arts contexts in New York City, nationally, and abroad. Their first solo exhibition, Kiss Solo, was held at Kate Werble Gallery in New York in 2013. Their solo exhibition Timelining took place at The Kitchen in Spring 2014. For this work, Gerard and Kelly received the 2014 Juried Award for the New York Dance and Performance Awards/The Bessies.</p>
-        </div>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Michael Ingle</p>
-          </a>
-          <p class="bio">Michael Ingle is a choreographer and performing artist based in New York City. His work has been presented at numerous venues in New York and nationally. As a performer, Michael has worked with with Hilary Easton + Company, Tere O’Connor Dance, Laura Peterson Choreography, Deganit Shemy and Company, Megan Sprenger/mvworks, Makiko Tamura/small apple co., Christopher Williams Dances and Miriam Wolf, among others.</p>
-        </div>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Oisín Monaghan</p>
-          </a>
-          <p class="bio">Oisín Monaghan is a dance artist, visual performer and collaborator. He began studying movement at the Martha Graham School of Contemporary Dance at 14. Currently, he is also dancing for Xavier Le Roy, Maria Hassabi, Robin Becker Dance and John-Mark Owen. Monaghan has had the privilege to work with many distinguished artists within their respective fields of Dance, Theatre, Art, Music, Film and Photography. Earlier this year, Oisín portrayed the character Gabriel in the film As Rosas Brancas which premiered at the 64th Berlin International Film Festival and received a best film nomination. He has collaborated with other visual artists and has presented work at Klaus von Nichtssagend, Deitch Projects and The Chelsea Hotel. Oisín is currently featured in “The Beauty Book” by fashion photographer Kenneth Willardt, published in November. He is grateful for the support and profound artistry of his fellow dancers and Tere.</p>
-        </div>
-  
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Cynthia Oliver</p>
-          </a>
-          <p class="bio">Cynthia Oliver grew up in the US Virgin Islands. She has danced with many companies including the David Gordon/Pick Up Performance Company, Ronald Kevin Brown/EVIDENCE, and Bebe Miller. In the black avant garde theatre world, she has performed in numerous works including plays by Laurie Carlos and Ntozake Shange. Her own work, a mélange of dance, theatre and the spoken word, incorporates the textures of Caribbean performance with African, and American sensibilities. Named "Outstanding Young Choreographer" by reviewer Frank Werner in German Magazine Ballet Tanz early in her career, Cynthia has since received numerous grants and awards including a New York Dance and Performance Award (Bessie), two Illinois Arts Council Choreography Fellowships, a Creative Capital award, a Rockefeller Multi-Arts Production grant, a CalArts Alpert Award nomination, and a University Scholar Award from the University of Illinois, Urbana-Champaign, where she is Professor of Dance. Cynthia holds a PhD in performance studies from New York University and is the author of Queen of the Virgins: Pageantry and Black Womanhood in the Caribbean. She is thrilled and honored to be dancing with Tere.</p>
-        </div>  
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Heather Olson</p>
-          </a>
-          <p class="bio">Heather Olson is a dancer and choreographer who based in New York City since 1997. As a performer, Olson has received New York Dance and Performance (Bessie) Awards for her body of work with Tere O’Connor and for her performance in Yanira Castro’s “Dark Horse/Black Forest”. She began working with O’Connor in 1997 and continues to be deeply moved by his dances. Olson has also appeared in the work of Jennifer Allen, Ivy Baldwin, Faye Driscoll, Levi Gonzales, Stacy Grossfield, Susan Rethorst, Vicky Shick, and Larissa Velez-Jackson. Her choreography has been commissioned by The Chocolate Factory, Olgas Zitluhinas Dejas Kompanija in Latvia, Sugar Salon, and Dance Theater Workshop. Her work has also been presented by Danspace Project, Dance Roulette, La Mama, Movement Research at Judson Church, 100 Grand, and Creature Feature in Berlin, Germany. She holds a BFA from North Carolina School of the Arts and lives in Brooklyn with her husband and beautiful daughter.</p>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Mary Read</p>
-          </a>        
-          <p class="bio">Mary Read received her early dance training in ballet at the School of Performing Arts with Arlene Begelman, Robert Maiorano and Barbara Braverman. At Hampshire College she studied modern dance and choreography with Cathy Nicoli, masked theatre with Davor Dicklich and psychoanalysis with Annie G. Rogers. Since moving to New York in 2009, she has performed in work Vanessa Anspaugh, Rebecca Brooks, Hilary Clark, Lily Gold, Tere O’Connor, Molly Poerstel, Katy Pyle, Jen Rosenblit, Larissa Velez-Jackson, Emily Wexler, and Enrico D. Wey. She is currently working toward a Master's degree in social work from NYU.</p>
-        </div>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Silas Riener</p>
-          </a>
-          <p class="bio">Silas Riener grew up in Washington DC. He graduated from Princeton University with a degree in Comparative Literature and certificates in Creative Writing and Dance, with a focus on linguistics. As a dancer he has worked with Chantal Yzermans, Takehiro Ueyama, Christopher Williams, Jonah Bokaer, Kota Yamazaki, and Rebecca Lazier. He was a member of the Merce Cunningham Dance Company from November 2007 until its closure at the end of 2011, and received a 2012 New York Dance and Performance (Bessie) Award for his performance in Cunningham’s Split Sides. While performing with MCDC, Riener completed his MFA in Dance at NYU's Tisch School of the Arts (2008). Since 2010, he has collaborated with poet Anne Carson and choreographer Rashaun Mitchell, with whom he continues to develop new projects. He has taught workshops and technique classes at Concord Academy SummerStages and throughout Turkey at several universities; he has taught in the Dance Program at Princeton University and Barnard College. He was the movement designer for the architecture and design firm the Harrison Atelier in 2012 and choreographed the site-specific performance/installations Pharmacophore: Architectural Placebo at the Storefront for Art and Architecture, and VEAL at The Invisible Dog Art Center. His own work has also been seen at Danspace Project, at CATCH and as part of LMCC's River to River Festival. Along with Rashaun Mitchell he was named one of Dance Magazine's "25 to Watch" for 2013, and is a member of LMCC's Extended Life Dance Development Program. He is a 2014 City Center Choreographic Fellow.</p>
-        </div>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>David Thomson</p>
-          </a>
-          <p class="bio">David Thomson has worked as a collaborative artist in the fields of music, dance, theater and performance with such artists as Mel Wong, Jane Comfort, Bebe Miller (’83-’86; ’03-’06), Remy Charlip, Trisha Brown (‘87-‘93), Susan Rethorst, David Roussève, Ralph Lemon (‘99-present), Muna Tseng, Sekou Sundiata, Meg Stuart, Dean Moss/Layla Ali, Alain Buffard, Deborah Hay, and Marina Abramovic, among many others. He was a founding member of the Drama Desk nominated a capella performance group, Hot Mouth. His own work has been presented by The Kitchen, Danspace Project at St Mark's Church, Dance Theater Workshop, Roulette, and Movement Research at Judson Church. Thomson has been Artist-in-Residence at Dance Theater Workshop, Movement Research, Baryshnikov Arts Center, Gibney Dance Center, and at LMCC Governors Island. Thomson was honored with a Bessie for Sustained Achievement (2001) and as part of the creative team for Bebe Miller’s Landing/Place (2006). He is a 2012 USA Ford Fellow, a 2013 NYFA Fellow in Choreography and a 2014 MacDowell Fellow. Thomson has served on the faculties of NYU/Experimental Theater Wing, Sarah Lawrence, The New School and Movement Research. An ongoing advocate for dance and the empowerment of artists, he was one of the founding members of Dancer’s Forum and has served on the boards of Bebe Miller/Gotham Dance, Dance Theater Workshop and currently New York Live Arts. He holds a BA in Interdisciplinary Studies from SUNY Purchase. Thank you Tere for this beautiful opportunity!</p>
-        </div>
-      </article>
-
-      <article class="about-section">
-        <h4 class="about-title">Collaborators</h4>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>James Baker</p>
-          </a>
-          <p class="bio">James Baker (Composer) is Principal Percussionist of the New York City Ballet Orchestra. He is Music Director and Conductor of the Composers Conference at Wellesley College and Director of the Percussion Ensemble at the Mannes College of Music. Mr. Baker is the Conductor of the New York New Music Ensemble and the Talea Ensemble. He is Guest Conductor of the Slee Sinfonietta at the Institute for 21st Century Music in Buffalo. He has led the Orchestra of the League of Composers and Speculum Musicae in concerts in NY and around the U.S.; he has conducted concerts with Ensemble ACJW at Carnegie Hall, with the Cygnus Ensemble at the Library of Congress and in NY, the Tactus Ensemble at the Manhattan School of Music, Ensemble 21 and the DaCapo Chamber Players, among many others. He has conducted a number of Composers Portrait concerts at Miller Theater including those of Pierre Boulez (leading the U.S. premiere of Derive II), Toru Takemitsu and Jason Eckhardt, and John Zorn. Mr. Baker was for many years a conductor of Broadway shows including The King and I, The Sound of Music, The Music Man, Oklahoma, An Inspector Calls, and La Boheme. An active composer of electro-acoustic music, He has written over twenty scores for long-time collaborator Tere O’Connor over the last 30 years and received a Bessie award for his composition for O’Connor’s Heaven Up North. As a percussionist he appears often with Orpheus, was a member of the American Composers Orchestra and the Eos Orchestra and has played with the New York Philharmonic, the Paris Opera Orchestra, the Czech Philharmonic Orchestra, and the Royal Danish Orchestra, among others. He has played on many sound tracks for film and television and has appeared with Wayne Shorter, Dizzy Gillespie, Dave Brubeck, Jimmy Webb, Aretha Franklin, Carly Simon, Michel LeGrand, Jazz at Lincoln Center, Branford Marsalis, Pablo Ziegler, and many other jazz and pop performers.</p>
-        </div>
-
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Walter Dundervill</p>
-          </a>
-          <p class="bio">Walter Dundervill's (Costume Designer) choreography has been presented at Dance Theater Workshop, The Chocolate Factory, Movement Research at Judson Church, Participant Inc., NADA via Cafe Dancer, and The Solo in Azione Festival in Milan Italy. He has received Bessie Awards as a performer in RoseAnne Spradlin's under/world, for the costume design of Luicana Achugar's Puro Deseo, and for the visual design of his own choreography Aesthetic Destiny 1: Candy Mountain. He worked with O'Connor as set designer for Wrought Iron Fog in 2010. Walter is a member of the Artist Advisory Council at Movement Research. He was a 2012/13 Studio Series resident at New York Live Arts and a 2010/11 Movement Research Artist in Residence. He was a co-curator of Hardcorps, the Movement Research Spring Festival 2010. He has taught and performed as a guest artist at The University of Wisconsin, Madison, Frostburg State University, MD, the Staadtstheater in Magdeburg, Germany, and for ClassClassClass in NYC. Dundervill received a BFA in Painting and Drawing from the University of Georgia.</p>
-        </div>
-        
-        <div class="bio-wrap">
-          <a href="#" class="toggle-link">
-            <p class="bio-toggle"><span class="icon-plus"></span>Michael O’Connor</p>
-          </a>
-          <p class="bio">Michael O’Connor (Lighting Designer) has been working with Tere for over fifteen years. His recent work in dance includes: Oxbow (BAM), Blue Room (NYLA), The Turn (City Center), Hurry (Danspace and PAC Dublin), In and Out (Danspace), Noctu (Irish Rep). His recent work in theater includes: Douglas Carter Beane’s Fairycakes (Lester Martin), While Chasing the Fantastic (AADA), Last Days of Cleopatra (Urban Stages), Mary Poppins (Forestburgh Playhouse), Morgan James CD Release (Le Poisson Rouge), The Tunnel Play (Kraine Theater), Beauty of the Father (AADA), The Morons (Cell Theater), Fruits Unheard Of (Chashama), Who’s Your Daddy? (Irish Rep), Red Valley (New 45th Street), Next to Normal (CAP 21), A Celebration of Harold Pinter (Irish Rep), American Clock (AADA), Jimmy Titanic (Drilling Company), Lend Me A Tenor (Gallery Players), Moonfleece (45th Street Theater), Oliver (David F. Clune Center), Snapshot Plays (Theatre 54), Spring Awakening (AADA). Michael is the resident Lighting Designer for the American Academy of Dramatic Arts NYC and Tere O’Connor Dance.</p>
-        </div>
-      </article>
-
-
-
-      
-      <!-- COMMENT OUT FOR TESTING JQUERY
       <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
       <?php the_content(); ?>
@@ -155,7 +35,7 @@
       <?php endwhile; else : ?>
        <p><?php _e( 'Sorry, no pages found.' ); ?></p>
       <?php endif; ?>
-      -->
+
 
     </div>
   </div>
