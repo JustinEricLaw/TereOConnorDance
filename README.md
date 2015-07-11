@@ -1,2 +1,3 @@
-Website for Tere O'Connor Dance: 
-http://tereoconnordance.org
+<h1>Tere O'Connor Dance Website</h1>
+<p>Responsive website, custom Wordpress theme.<br/>
+http://tereoconnordance.org</p>
