@@ -4,9 +4,9 @@
           <div class="footer-contact">
             <div class ="footer-address">
               <h4>Contact</h4>
-                <h5>Company Manager:</h5>
-                <p>Laurie Uprichard<br />
-                <a href="mailto:laurie.uprichard@gmail.com">laurie.uprichard@gmail.com</a></p>
+                <h5>Managing Consultant:</h5>
+                <p>Sarah A.O. Rosner<br />
+                <a href="mailto:AOPROinfo@gmail.com">AOPROinfo@gmail.com</a></p>
             </div>
 
 
