@@ -28,10 +28,14 @@
           <div class="footer-newsletter">
             <h4>Newsletter</h4>
             <div class="group newsletter-signup-box">
-              <form method="post" action="http://oi.vresp.com?fid=818f0525eb" target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;" >
+              <form action="//tereoconnordance.us15.list-manage.com/subscribe/post?u=f31840827d71b828fef1a392e&amp;id=35879e0eb8" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
                 <div>
-                  <input class="email-input" name="email_address" placeholder="Your Email"/>
-                  <input class="signup-button" type="submit" value="Sign Up"/><br/>
+                  <input type="email" value="" name="EMAIL" class="email-input" id="mce-EMAIL" placeholder="email address" required>
+
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f31840827d71b828fef1a392e_35879e0eb8" tabindex="-1" value=""></div>
+                  
+                  <input class="signup-button" type="submit" value="Sign Up" name="subscribe"><br/>
                 </div>
               </form>
             </div>
